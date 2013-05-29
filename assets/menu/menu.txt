@@ -1,0 +1,4 @@
+0 1 <menu> File
+1 10 exit Exit
+0 2 <menu> Settings
+2 10 sharing Sharing
